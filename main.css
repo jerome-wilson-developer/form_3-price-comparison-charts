@@ -122,6 +122,7 @@ body{
 .feature.inactive{
     color: #999;
     text-decoration-line: line-through;
+    padding-left: 25px;
 }
 .most-popular{
     position: absolute;
